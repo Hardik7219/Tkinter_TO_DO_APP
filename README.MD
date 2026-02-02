@@ -1,6 +1,6 @@
 HELLO I MADE THIS SIMPLE APP 
 
-#If you like this project, feel free to star the repository!
+# If you like this project, feel free to star the repository!
 
 # 📝 Python Tkinter To-Do Application
 
